@@ -1,0 +1,893 @@
+---
+title: "2024 ASN Nephrology Fellow Survey Report"
+author: ASN Data Subcommittee
+description: |
+  Takeaways from ASN's 11th Annual Nephrology Fellow Survey
+toc: false
+categories: [workforce, fellow, survey, report]
+google-scholar: true
+citation: 
+  author:
+    - name: Kurtis A. Pivert
+      orcid: 0000-0002-3428-2427
+    - name: Rasheed A. Balogun
+      orcid: 0000-0003-3357-6949
+    - name: Raad Chowdhury
+      orcid: 0000-0002-9347-6299
+    - name: Koyal Jain
+      orcid: 0000-0001-6951-7591
+    - name: Benjamin Ko   
+      orcid: 0000-0003-2780-6795
+    - name: Ryan Mullane   
+      orcid: 0000-0001-6760-3277
+    - name: Javier A. Neyra   
+      orcid: 0000-0002-2817-2459
+    - name: Rasha Raslan
+      orcid: 0000-0002-7912-895X   
+    - name: Hitesh H. Shah  
+      orcid: 0000-0001-6760-7710  
+    - name: Leah Smith
+    - name: Stephen M. Sozio  
+      orcid: 0000-0002-0099-0484
+    - name: Jefferson Triozzi
+      orcid: 0000-0002-3607-6838
+    - name: Darcy K. Weidemann  
+      orcid: 0000-0002-0960-2863
+    - name: Suzanne M. Boyle  
+      orcid: 0000-0003-4722-6149
+image: "figures/fig7.png"
+format: 
+  closeread-html:
+    theme: [default, styles.css]
+    remove-header-space: true
+    debug-mode: false
+---
+
+::::{.cr-section}
+
+# 2024 ASN Nephrology Fellow Survey Report 
+
+**ASN Data Subcommittee** @cr-datasubcom
+
+**Chaired by Dr. Suzanne M. Boyle** [@cr-datasubcom]{zoom-to="cr-suzy"}
+
+::: {#cr-datasubcom .scale-to-fill}
+
+Kurtis A. Pivert, MS, CAP [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0002-3428-2427)\
+Rasheed A. Balogun, MD, FASN [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0003-3357-6949)\
+Raad Chowdhury, MD, FASN [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0002-9347-6299)\
+[Koyal Jain, MD, MPH, FASN]{#cr-koyal} [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0001-6951-7591)\
+Benjamin Ko, MD [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0003-2780-6795)\
+Ryan Mullane, DO, FASN [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0001-6760-3277)\
+Javier A. Neyra, MD, MS, FASN [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0002-2817-2459)\
+Rasha Raslan, MD [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0002-7912-895X)\
+Hitesh H. Shah, MD, FASN [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0001-6760-7710)\
+Leah Smith, MS, APRN, CNN, CNN-NP, NP, RN\
+Stephen M. Sozio, MD, MHS, MEHP, FASN [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0002-0099-0484)\
+Jefferson Lorenzo Triozzi, MD [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0002-3607-6838)\
+Darcy K. Weidemann, MD, MHS [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0002-0960-2863)\
+[Suzanne M. Boyle, MD, MSCE]{#cr-suzy} [![](images/ORCIDiD_icon24x24.png){width="15"}](https://orcid.org/0000-0003-4722-6149)
+
+:::
+
+::::
+
+::::{focus-on="cr-report" .scale-to-fill}
+
+**This report is available in a [PDF version](2024_ASN_Nephrology_Fellow_Survey_Report.pdf).** 
+
+::: {#cr-report}
+
+[![](images/cover.png)](2024_ASN_Nephrology_Fellow_Survey_Report.pdf)
+
+:::
+
+::::
+
+## At a Glance
+
+-   2024 marked the 11th iteration of ASN's annual Nephrology Fellow Survey. Of the 962 current adult, pediatric, and adult/pediatric nephrology fellows in training, 447 participated (46% response rate). (See [V. Pediatric Nephrology Fellows] for details on pediatric nephrology fellow responses.)
+
+-   Nine out of 10 fellows (91%) would recommend medical students and residents pursue nephrology (IMGs, 88%; USMGs, 94%).
+
+-   Lifestyle factors—call frequency, desired practice location, and vacation time—continued to be highly valued by fellows when considering job offers. For the first time since 2021 compensation was among the top five overall factors rated "extremely important."
+
+-   Of the 189 adult fellows completing fellowship, 34 (18%) were seeking additional training, mainly in nephrology–critical care medicine (CCM, 14 fellows) and transplant nephrology (12).
+
+-   Only about one-third of participating international medical graduates (IMGs, 37%) perceived an appropriate number of employment opportunities within a 50-mile radius of their training institution, compared with half of United States medical graduates (USMGs, 53%).
+
+-   Adult fellows received multiple employment offers (median 3 offers) and were starting their first post-fellowship positions across 39 different states and the District of Columbia, with half (50%) entering private practice.
+
+-   Median base starting salary was \$240,000 (interquartile range \[IQR\] \$64,000), up 4% from the 2023 survey. There were narrow differences between men (median \$240,000) and women (\$238,500).
+
+-   A dedicated transplant nephrology fellow survey instrument was introduced this year, with 9 transplant fellows participating (50% response). Post-fellowship, 3 of the 9 respondents were entering a solely transplant nephrology position, 5 were starting a combined transplant/general nephrology position, and 1 was entering general clinical nephrology. Median base starting salary for this group of respondents was \$250,000 (IQR \$86,000) (see [VI. Transplant Nephrology Fellows]).
+
+## I. First Look at the Pipeline—Incoming Workforce Demographics 
+
+::: callout-note
+## This Section Does Not Report Transplant Fellow Responses
+:::
+
+::::{.cr-section}
+
+In 2024, 46% of current adult, pediatric, and adult/pediatric nephrology fellows (447 of 962) participated in the 11th ASN Nephrology Fellow Survey. Most of adult respondents were IMGs (57%) and pediatric respondents USMGs (73%). @cr-tbl_1A
+
+:::{#cr-tbl_1A .scale-to-fill}
+
+![](figures/tbl_1A.png)
+
+:::
+
+
+Nearly half of adult fellows (49%) and 40% of pediatric fellows were completing their final year of accredited training. @cr-tbl1_B
+
+:::{#cr-tbl1_B .scale-to-fill}
+
+![](figures/tbl_1B.png)
+
+:::
+
+Pediatric respondents had a greater proportion of women fellows than adult participants (64% vs. 40%, respectively). @cr-tbl1_C
+
+:::{#cr-tbl1_C .scale-to-fill}
+
+![](figures/tbl_1C.png)
+
+:::
+
+Most respondents were U.S. citizens (range 60%&ndash;100%), with 23% of adult fellows training on J-1 visas. @cr-tbl1_D
+
+:::{#cr-tbl1_D .scale-to-fill}
+
+![](figures/tbl_1D.png)
+
+:::
+
+The proportion of Hispanic/Latina/Latino respondents were close to that of all fellows (see below) but still below that of the U.S. population. @cr-tbl1_E
+
+:::{#cr-tbl1_E .scale-to-fill}
+
+![](figures/tbl_1E.png)
+
+:::
+
+Asian participants (44%), in particular South Asians (33%), comprised the majority of adult participants and Whites (55%) the majority of pediatric respondents. @cr-tbl1_F
+
+:::{#cr-tbl1_F .scale-to-fill}
+
+![](figures/tbl_1F.png)
+
+:::
+
+Participating fellows were training at institutions concentrated in the Northeastern and Midwestern U.S. @cr-tbl1_G
+
+:::{#cr-tbl1_G .scale-to-fill}
+
+![](figures/tbl_1G.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Compared with data from the Accreditation Council for Graduate Medical Education (ACGME) [Data Resource Book](https://www.acgme.org/about/publications-and-resources/graduate-medical-education-data-resource-book/) for 2022–2023, the respondents' demographics were generally similar to their source population excepting there were fewer IMG and more White adult respondents... @cr-tbl_2A 
+
+:::{#cr-tbl_2A}
+
+![](figures/tbl_2A.png)
+
+:::
+
+...and fewer Asian and more Hispanic/Latina/Latino and White pediatric respondents. @cr-tbl_2B &nbsp;Among USMG participants, most were allopathic medical school graduates (70%) although there were slightly more adult osteopathic fellows (34%).
+
+:::{#cr-tbl_2B}
+
+![](figures/tbl_2B.png)
+
+:::
+
+::::
+
+::::{.cr-section}
+
+In aggregate... @cr-fig1_dup 
+
+
+:::{#cr-fig1_dup}
+
+![](figures/fig1.png)
+
+:::
+
+... the majority of respondents were U.S. citizens (62%) ... [@cr-fig1_dup]{pan-to="-50%,50%" scale-to="1.2"} 
+
+... but one-fifth (21%) were training on J-1 visas. [@cr-fig1_dup]{pan-to="0%,45%" scale-to="1.75"}
+
+::::
+
+
+::::{.cr-section}
+
+While nearly all adult fellows were in general nephrology training ... @cr-fig2 
+
+:::{#cr-fig2}
+
+![](figures/fig2.png)
+
+:::
+
+... 12% were enrolled in subspecialty programs–CCM (19 fellows), research (16), interventional (3), and home dialysis (1 fellow). [@cr-fig2]{pan-to="45%,0%" scale-by="1.5"} 
+
+::::
+
+::::{.cr-section}
+
+Overall, most fellow respondents chose to subspecialize in nephrology during their residency years ... @cr-fig3
+
+:::{#cr-fig3}
+
+![](figures/fig3.png)
+
+:::
+
+... yet more USMG fellows were focused on nephrology earlier in their educational continuum (30% in pre-med/medical school)... [@cr-fig3]{pan-to="10%,-60%" scale-by="1.5"} 
+
+... and 15% of IMGs came to nephrology after practicing medicine independently. [@cr-fig3]{pan-to="-60%,50%" scale-by="1.2"}
+
+&nbsp; &nbsp; @cr-fig3
+
+::::
+
+::::{.cr-section}
+
+One-quarter of participants had participated in an ASN initiative ... @cr-tbl3
+
+:::{#cr-tbl3}
+
+![](figures/tbl_3.png)
+
+:::
+
+... 17% of respondents had participated in Kidney STARS ... [@cr-tbl3]{pan-to="0%,70%" scale-by="1.1"}
+
+... and 8% were Campbell Fellows [@cr-tbl3]{pan=to="0%,60%" scale-by="1.1"} 
+
+::::
+
+
+::::{.cr-section}
+
+Educational debt loads... @cr-fig4 
+
+:::{#cr-fig4}
+
+![](figures/fig4.png)
+
+:::
+
+... were 5 times greater for USMG participants... [@cr-fig4]{pan-to="50%,0%" scale-by="1.4"} 
+
+
+... than the educational debt for IMGs... [@cr-fig4]{pan-to="-10%,-50%" scale-by="1.4"} 
+
+
+... with median \$250,000 for USMGs and \$47,000 for IMGs @cr-fig4
+
+::::
+
+
+::::{.cr-section}
+
+Nine of 10 nephrology fellow respondents would recommend the specialty to medical students and residents... @cr-fig5
+
+:::{#cr-fig5}
+
+![](figures/fig5.png)
+
+:::
+
+... including 94% of USMGs and 88% of IMGs ... [@cr-fig5]{pan-to="-90%,70%" scale-by="1.5"}
+
+... a substantial increase from 72% in 2014. [@cr-fig5]{pan-to="50%,-50%" scale-by="1.5"}
+
+&nbsp; &nbsp; @cr-fig5
+
+::::
+
+::::{.cr-section}
+
+Those that would recommend the specialty... @cr-adult-quotes
+
+... indicated they valued the diversity of the field ... [@cr-adult-quotes]{highlight="cr-diverse1,cr-diverse2,cr-diverse3,cr-diverse4,cr-diverse5,cr-diverse6,cr-diverse7,cr-diverse8"}  
+
+... the complex physiology ... [@cr-adult-quotes]{highlight="cr-physiology1,cr-physiology2,cr-physiology3"} 
+
+... and longitudinal patient relationships. [@cr-adult-quotes]{highlight="cr-longitudinal1,cr-longitudinal2,cr-longitudinal3"} 
+
+| {#cr-adult-quotes .scale-to-fill}
+| [There are many ways you can practice nephrology, like preventative]{#cr-diverse1} 
+| [medicine for CKD prevention if you like to practice in community]{#cr-diverse2} 
+| [and you can pursue critical care nephrology if you like to practice in hospital.]{#cr-diverse3} 
+| [You can practice as general nephrologist to]{#cr-diverse4} 
+| [take care of CKD pts or the specialist clinic if you would]{#cr-diverse5} 
+| [like to go for specific training like Glomerular disease or home dialysis.]{#cr-diverse6} 
+|
+| [Each day I get to go to work and unravel the mystery]{#cr-physiology1}  
+| [of an acid base, electrolyte, tubular or vascular disorder]{#cr-physiology2}  
+| leaves me quite fulfilled. 
+| [We get to offer a dialysis that either bridges the gap]{#cr-diverse7} 
+| [to transplant or allows extension of life]{#cr-diverse8} 
+| to give people more time with their loved ones.
+| [I get to study ion channels and practice in this wonderful specialty]{#cr-physiology3} 
+| and hope to do so for many years to come.
+|
+| [We get to form close connections with our patients]{#cr-longitudinal1} 
+| [and follow them throughout life.]{#cr-longitudinal2} 
+| ESKD is one of the few diseases where a therapy option (transplant) 
+| can provide a profoundly positive transformation, and it is an
+| [incredible privilege to go through the highs and lows with your patients.]{#cr-longitudinal3}
+
+::::
+
+::::{.cr-section}
+
+
+This year, fellow participants not recommending nephrology... @cr-adult-no-quotes 
+
+... were nearly unanimous in citing compensation as the main reason ... [@cr-adult-no-quotes]{highlight="cr-money1,cr-money2,cr-money3,cr-money4,cr-money5"}  
+
+... along with a poor work-life balance. [@cr-adult-no-quotes]{highlight="cr-life1,cr-life2"}  
+
+| {#cr-adult-no-quotes .scale-to-fill}
+| Would only pursue if there's genuine interest and passion 
+| [as the compensation and recognition do not correspond]{#cr-money1} 
+| [with the effort and time spent in education and]{#cr-money2} 
+| caring for the vulnerable and complex patient population.
+| 
+| [Lifestyle and financial compensation]{#cr-money3} 
+| [do not match the extra effort of going through fellowship.]{#cr-money4}
+| 
+| [Lifestyle, job options and compensation take away the joy]{#cr-life1} 
+| [of practicing as a general nephrologist.]{#cr-life2} 
+| Private practice appears to be functional only with 
+| superficial rounding and doing bare minimum 
+| instead of them investing more time to figure out 
+| underlying etiology or adequate workup in a lot of cases. 
+| Aware since I’m actually interviewing and options look bleak.
+| 
+| [Demanding specialty, low starting salary compared to other fellowships.]{#cr-money5} 
+| Even if you like nephrology, the culture now is that 
+| if you match in nephrology most likely you were 
+| not good to match in any other specialties.
+
+::::
+
+## II. Future Plans
+
+::: callout-note
+## This Section Reports **ADULT** Fellow Responses Only
+:::
+
+:::: {.cr-section}
+
+Half of the participating adult nephrology fellows (204) were continuing their current fellowship. @cr-fig6
+
+:::{#cr-fig6}
+
+![](figures/fig6.png)
+
+:::
+
+Of those graduating, 88 were entering private practice ... [@cr-fig6]{pan-to="35%,55%" scale-by="1.5"} 
+
+... 48 academic practice ... [@cr-fig6]{pan-to="35%,35%" scale-by="1.5"} 
+
+... and 34 pursuing additional training in CCM (14), transplant (12), onconephrology (2), glomerular disease (2), interventional nephrology (1), and palliative care (1). [@cr-fig6]{pan-to=35%,15%" scale-by="1.5"}
+
+::::
+
+
+::::{.cr-section}
+
+All but 4 adult respondents planned to enter their first post-fellowship job in the U.S., with 43% planning to remain in the same state, and 32% in the same city/region as their training institution. @cr-fig7
+
+:::{#cr-fig7 .scale-to-fill}
+
+![](figures/fig7.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Although subjective, fellows' perceptions of nephrology employment opportunities are a leading indicator of the strength of the local (within 50 miles of their training program) and national nephrology job market. IMGs were overall pessimistic about the availability of jobs locally, with 37% assessing an appropriate number of positions and 37% saying there were "Far too few"/"Too few". @cr-fig8 
+
+:::{#cr-fig8}
+
+![](figures/fig8.png)
+
+:::
+
+Nationwide, nearly half of both IMG (46%) and USMG (50%) participants perceived an appropriate number of opportunities even though one-fifth of IMGs still saw "Far too few"/"Too few" jobs. @cr-fig9
+
+:::{#cr-fig9}
+
+![](figures/fig9.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Among the top factors fellows value when evaluating job offers ... @cr-fig10 
+
+:::{#cr-fig10}
+
+![](figures/fig10.png)
+
+:::
+
+... lifestyle aspects of employment—call frequency, a job in a desired location, and vacation time—continue to rank highly. [@cr-fig10]{pan-to="50%,70%" scale-by="1.75"} 
+
+Yet this year, compensation cracked the top 5 overall (and top 5 for IMGs) for the first time since the 2021 survey. [@cr-fig10]{pan-to="50%,45%" scale-by="1.75"} 
+
+&nbsp; &nbsp; @cr-fig10
+
+::::
+
+
+## III. Fellow Job Search Experiences
+
+::: callout-note
+## This Section Reports **ADULT** Fellow Responses Only
+:::
+
+
+::::{.cr-section}
+
+At survey time (see [Methods]) 147 adult fellows had initiated their job search, mainly focused on clinical nephrology positions (126 fellows). @cr-tbl4 
+
+:::{#cr-tbl4 .scale-to-fill}
+
+![](figures/tbl_4.png)
+
+:::
+
+Eighteen were searching for a nephro-hospitalist position and 6 were searching for a general hospital medicine position.
+
+::::
+
+
+::::{.cr-section}
+
+One-third (29%) of job seekers experienced difficulty in finding a position they considered satisfactory, with a lack of jobs in a desired location most cited by both IMGs and USMGs. @cr-tbl5
+
+:::{#cr-tbl5}
+
+![](figures/tbl_5.png)
+
+:::
+
+::::
+
+## IV. Entering Practice
+
+::: callout-note
+## This Section Reports **ADULT** Fellow Responses Only
+:::
+
+
+::::{.cr-section}
+
+Adult fellow respondents had applied for a median of 5 positions and received a median 3 employment offers. One-hundred-forty-eight adult fellows had been offered a position and had either accepted (132) or were continuing their search (16). Half were entering private practice (67 fellows), with 42 starting in academic hospitals, 19 in non-academic hospitals, and 5 in government. @cr-fig11 
+
+:::{#cr-fig11}
+
+![](figures/fig11.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Nearly 9 in 10 fellows (87%) were entering clinical nephrology positions @cr-fig12 where they would be responsible for CKD, in-center hemodialysis, CRRT, and PD (all ≥75% of respondents). @cr-tbl6
+
+:::{#cr-fig12}
+
+![](figures/fig12.png)
+
+:::
+
+:::{#cr-tbl6 .scale-to-fill}
+
+![](figures/tbl_6.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Adult nephrologists were starting practice in 39 different states and the District of Columbia.&nbsp; @cr-fig13 Most were starting positions in a large city (62%, 83 respondents), followed by suburban areas (17%, 22), small cities (14%, 19), and rural areas (17%, 9 fellows).
+
+:::{#cr-fig13}
+
+![](figures/fig13.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Overall median base salary for respondents' first post-fellowship position was \$240,000 (IQR \$64,000), a 4% increase from the 2023 survey. Variation between women ... @cr-fig14A 
+
+:::{#cr-fig14A}
+
+![](figures/fig14A.png)
+
+:::
+
+... and men narrowed to \$1,500 ... @cr-fig14B 
+
+:::{#cr-fig14B}
+
+![](figures/fig14B.png)
+
+:::
+
+... although IMGs continued to report higher starting salaries ... @cr-fig15A 
+
+:::{#cr-fig15A}
+
+![](figures/fig15A.png)
+
+:::
+
+... than USMG participants. @cr-fig15B 
+
+:::{#cr-fig15B}
+
+![](figures/fig15B.png)
+
+:::
+
+Excluding three respondents who were practicing in other settings, fellows starting in non-academic hospitals had the highest median starting salaries (\$320,000, IQR \$98,800; 18 fellows), followed by private practice (\$235,000, IQR \$36,500; 63), academic hospitals (\$223,000, IQR \$53,500; 40), and government (\$212,000, IQR \$37,000; 4 fellows). @cr-fig16
+
+:::{#cr-fig16}
+
+![](figures/fig16.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Malpractice insurance, income guarantees, MOC and CME support, and a signing bonus were the top four incentives fellows reported receiving again this year. @cr-tbl7
+
+:::{#cr-tbl7 .scale-to-fill}
+
+![](figures/tbl_7.png)
+
+:::
+
+::::
+
+::::{.cr-section}
+
+Nearly half (48%) indicated that incentives received were "Very"/"Extremely" important in choosing their first post-fellowship position. @cr-fig17
+
+:::{#cr-fig17}
+
+![](figures/fig17.png)
+
+:::
+
+Overall median bonus/incentive pay was \$20,000 (43 fellows) with women reporting less incentive pay ... @cr-fig18A
+
+:::{#cr-fig18A}
+
+![](figures/fig18A.png)
+
+:::
+
+... than men ... @cr-fig18B  
+
+:::{#cr-fig18B}
+
+![](figures/fig18B.png)
+
+:::
+
+... but unlike base salary, IMGs indicated earning less incentive pay ... @cr-fig19A 
+
+:::{#cr-fig19A}
+
+![](figures/fig19A.png)
+
+:::
+
+... than USMGs. @cr-fig19B
+
+:::{#cr-fig19B}
+
+![](figures/fig19B.png)
+
+:::
+
+::::
+
+
+## V. Pediatric Nephrology Fellows
+
+::: callout-note
+## This Section Reports **PEDIATRIC** Responses Only
+:::
+
+#### V.1 Pediatric and Adult/Pediatric Fellow Demographics
+
+This year 45 of 93 current pediatric fellows (48%) and 9 adult/pediatric fellows participated in the survey. Most pediatric fellow participants were USMGs (73%), women (64%), U.S. Citizens (77%), and non-Hispanic Whites (55%). Compared with the most recent ACMGE data on pediatric fellows, there were slightly more White and Hispanic/Latina/Latino and fewer Asian respondents.. USMG pediatric respondents were mainly graduates of allopathic medical schools (85%, 34 fellows).
+
+#### V.2 Educational Debt and Choosing Nephrology
+
+Both pediatric and adult/pediatric participants reported carrying a higher debt burden than adult respondents. Median debt was \$246,000 for pediatric and \$333,000 for adult/pediatric fellows versus \$199,000 for adult fellows. Similar to the adult cohort, a majority of pediatric fellows chose nephrology during their PGY-2 and PGY-3 years of residency (57% vs. 47% for adults), although there were more respondents who were directed to nephrology during their pre-med/medical school training (27% vs. 22% for adults). Except for one respondent, nearly every pediatric and adult/pediatric fellow participant would recommend the specialty to medical students and pediatric residents (98%, 52 fellows, vs. 90%, 353 adult fellows).
+
+::::{.cr-section}
+
+Pediatric fellows respondents indicated ... @cr-peds-quotes 
+
+... the variety of practice ... [@cr-peds-quotes]{highlight="cr-peds-variety1,cr-peds-variety2,cr-peds-variety3,cr-peds-variety4,cr-peds-variety5,cr-peds-variety6,cr-peds-variety7"} 
+
+... longitudinal patient relationships ... [@cr-peds-quotes]{highlight="cr-peds-long1,cr-peds-long2"} 
+
+... and strong job market as reasons to recommend pediatric nephrology. [@cr-peds-quotes]{highlight="cr-peds-job-mk1"}
+
+| {#cr-peds-quotes .scale-to-fill}
+| [I think pediatric nephrology really offers so much.]{#cr-peds-variety1} 
+| [You can practice inpatient, outpatient, and in the ICUs.]{#cr-peds-variety2} 
+| [You get to build continuity and still practice some primary care.]{#cr-peds-variety3} 
+| [You can also stay as general or sub-sub specialized as you want to.]{#cr-peds-variety4} 
+| [Also, the job market is very friendly.]{#cr-peds-job-mk1}
+|
+| Recommend only if there is interest in the subject. 
+| And once there is interest, I would encourage the field due 
+| to good work life balance for the most part ... 
+| [the opportunity to work in multiple settings...]{#cr-peds-variety5} 
+| 
+| [Diverse patient care environment, as what you want]{#cr-peds-variety6} 
+| [changes over time you have flexibility,]{#cr-peds-variety7} 
+| wonderful mentors in the field, high acuity potential.
+|
+| [Clinically, I enjoy the longitudinal relationships]{#cr-peds-long1} 
+| [with patients and their families.]{#cr-peds-long2} 
+| Academically, I enjoy my personal research related aspects of the field, 
+| and teaching students/residents about renal physiology 
+| in ways they can directly see in their patients
+| (electrolyte repletion/changes, medication side effects, AKI)
+
+::::
+
+
+#### V.3 Future Plans
+
+Two-thirds of respondents (67%, 36 fellows) were continuing their current fellowship, with 12 respondents entering academic practice (22%), 2 pursuing additional training (4%), and 1 participant (2%) each entering private practice, pediatrics residency, and undecided at survey time.
+
+::::{.cr-section}
+
+All but 2 pediatric respondents planned to remain in the U.S. for their first position, with a lower percentage anticipating remaining in the same state (33%) and city/region (24%) as their current fellowship than adult participants (43% and 32%, respectively). @cr-fig20
+
+:::{#cr-fig20}
+
+![](figures/fig20.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+#### V.4 Job Market Perceptions
+
+Pediatric fellow respondents perceived a soft local job market with only 48% of USMGs and 21% of IMGs indicating and appropriate number of opportunities within 50 miles of their fellowship institution.This could partially explain the lower percentage of pediatric fellows anticipating practicing in the same state and city/region. @cr-fig21 
+
+:::{#cr-fig21}
+
+![](figures/fig21.png)
+
+:::
+
+Nationally, respondents were more optimistic with 36% of IMGs and 40% of USMGs indicating an appropriate number of jobs, with 14% and 35%, respectively, perceiving too many open positions. @cr-fig22
+
+:::{#cr-fig22}
+
+![](figures/fig22.png)
+
+:::
+
+::::
+
+
+#### V.5 Entering Practice
+
+Sixteen participants had started their job search, with 13 pursuing clinical positions, 2 research positions, and 1 fellow looking for a job in medical education. Pediatric respondents applied for a median 4 positions and received a median 2.5 job offers. At survey time, 12 had accepted positions, 1 had received an offer but was still searching, and 3 had not received any employment offers. Unlike adult fellows, no pediatric respondents had difficulty finding a position they considered satisfactory.
+
+::::{.cr-section}
+
+Of those who accepted a position, 11 fellows were starting in clinical nephrology and 2 were in research positions. A majority (85%, 11 fellows) were employed by a univerity-based hospital, and 2 were working in a non-academic health system. Respondents entering pediatric nephrology practice were anticipating responsibilties for dialysis modalities (PD, CRRT, in-center HD), and outpatient CKD and specialty clinics. @cr-tbl8
+
+:::{#cr-tbl8 .scale-to-fill}
+
+![](figures/tbl_8.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Pediatric fellow respondents were starting positions in 10 states, with the most entering practice in urban areas (large city, 12 fellows; small city; 1 fellow). @cr-fig23
+
+:::{#cr-fig23}
+
+![](figures/fig23.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Base median starting salary was \$190,000. @cr-fig24 
+
+:::{#cr-fig24}
+
+![](figures/fig24.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Eight fellows (62%) also received incentive income ranging from \$1,000 to \$50,000 (median \$13,000). Other incentives reported included support for MOC/CME (77%) and malpractice insurance (69%). @cr-tbl9 
+
+:::{#cr-tbl9 .scale-to-fill}
+
+![](figures/tbl_9.png)
+
+:::
+
+Half (53%) of pediatric fellow respondents indicated incentives were "Very Important"/"Extremely Important" in choosing their first position. Although most respondents were starting in full-time positions, 4 indicated they were \<1 FTE.
+
+::::
+
+
+## VI. Transplant Nephrology Fellows
+
+::: callout-note
+## This Section Reports **TRANSPLANT** Fellow Responses Only
+:::
+
+#### VI.1 Transplant Fellow Demographics
+
+Recognizing that the 2019 Advancing American Kidney Health (AAKH) executive order called for "...\[increased\] access to kidney transplants..." a separate ASN Transplant Nephrology Fellow Survey was developed to better understand transplant trainees and the job market for transplant nephrologists. Current transplant fellows were identified by querying training program directors for the 64 accredited transplant nephrology fellowship [programs](https://txnephaccreditation.org/), who identified 18 transplant fellows, 9 of whom participated (50% response). (Not all transplant fellowships responded.)
+
+A slight majority of participating transplant fellows were IMGs, women, and training on J-1 visas (5 fellows, 56% for each variable). Two respondents identified as Hispanic/Latina/Latino (22%), with one-third White, one-third South Asian, and 11% each identified as Black/African American and Southeast Asian (1 preferred not to answer).
+
+::::{.cr-section}
+
+#### VI.2 Choosing Transplant Nephrology
+
+Five decided to subspecialize in transplant during fellowship, 2 during their intern year, and 2 during their 2nd or 3rd years of residency. Two-thirds were attracted to the science and allure of transplant nephrology, with 4 wanting to work in an academic center post-fellowship, and one motivated by their own personal experience as a transplant recipient. @cr-tbl10
+
+:::{#cr-tbl10 .scale-to-fill}
+
+![](figures/tbl_10.png)
+
+:::
+
+::::
+
+::::{.cr-section}
+
+Six of the 9 participating fellows were very satisfied with their choice to pursue tranplant, and all 9 would recommend the subspecialty. Among the reasons to recommend transplant nephrology: @cr-tx-quotes
+
+| {#cr-tx-quotes .scale-to-fill}
+| Ability to combine patient care with exciting and interesting science.
+| 
+| Nephrology is moving towards xenotransplantation and 
+| eventually all nephrologists will require transplant training.
+|
+| It’s a combination of so many different fields including 
+| immunology, pathology, infectious disease, etc. 
+| No patient is the same.
+|
+| Despite lower salary and complex patient population, 
+| the kidney transplant patient-physician journey, 
+| from pre-transplant evaluation to life with a 
+| functioning graft is very gratifying. 
+| However, salary and work life balance should improve.
+
+::::
+
+Respondents indicated that transplant could be made more attractive by improving educational curriculum and making the fellowship standardized (2 fellows), improving compensation (2) and lifestyle/work-life balance (2), attaining ACGME accreditation (1), and increasing visa sponsorship opportunities (1 fellow).
+
+#### VI.3 Job Search Experiences and First Positions
+
+All participants were searching for employment either in solely transplant nephrology (5 fellows), transplant nephrology combined with general nephrology (5), or general clinical nephrology (1 fellow). Every participant had accepted an employment offer, although 3 experienced difficulty finding a position they considered satisfactory because of visa requirements (2 fellows), lack of positions in a desired location (1) or practice setting (1), or inadequate salary (1 fellow).
+
+
+::::{.cr-section}
+
+In their first post-fellowship position, one-third were focused solely on transplant nephrology (3 fellows), with 5 entering combined transplant/general nephrology practice, and one starting a general clinical nephrology position. Five respondents were starting in an academic hospital/health system, 2 in a non-academic/independent transplant center, and 2 in private practice. Eight out of 9 were preparing to oversee outpatient transplant clinics with one starting as a transplant center director. @cr-tbl11 
+
+:::{#cr-tbl11 .scale-to-fill}
+
+![](figures/tbl_11.png)
+
+:::
+
+::::
+
+
+::::{.cr-section}
+
+Transplant fellow participants reported a median base salary of \$250,000 (IQR \$86,000). @cr-fig25
+
+:::{#cr-fig25}
+
+![](figures/fig25.png)
+
+:::
+
+::::
+
+## Methods
+
+### Why does ASN survey nephrology fellows in training?
+
+Since 2014, ASN has conducted an annual fellow survey to understand:
+
+-   The composition of the incoming workforce, including race, ethnicity, and gender
+-   Motivating factors for choosing the specialty to tailor approaches to sustain interest in nephrology
+-   Potential gaps in nephrology education
+-   Demand for nephrologists in the U.S.
+
+### How was the survey constructed?
+
+The survey instrument comprised:
+
+-   Longitudinal questions drawn from the original 2014 survey focusing on job search experiences, perceptions of the specialty, practice patterns, and demographics
+-   Questions developed by the ASN Data Subcommittee to assess nephrology fellows' training experiences and perceptions of the specialty.
+
+The final instrument was piloted by ASN Data Subcommittee members and distributed via Qualtrics.
+
+### Who were surveyed?
+
+The 2024 ASN Nephrology Fellow Survey was distributed to a survey frame of 962 adult, pediatric, and adult/pediatric nephrology fellows drawn from the ASN (869 adult fellows) and American Society for Pediatric Nephrology (93 fellows) member databases. T he survey received a 46% response rate, with participation from 393 adult, 45 pediatric, and 9 adult/pediatric fellows in training.
+
+A separate Transplant Fellow Survey was developed for transplant nephrology fellows and distributed to 18 transplant fellows provided by current transplant fellowship TPDs. Of these, 9 participated (50% response rate).
+
+### When was the survey conducted?
+
+Invitation emails were sent to adult fellows on April 30 (May 7 for the Transplant Fellow Survey) and the survey closed on May 22, 2024. Participating fellows were eligible to win one of 10 complimentary one-year ASN memberships or one of two complimentary BRCU registrations.
+
+### How were responses analyzed?
+
+The ASN Nephrology Fellow Survey was reviewed and approved by the Johns Hopkins University School of Medicine Institutional Research Board (Study \# 00205206). Data obtained from 2024 responses were analyzed using R (R Core Team (2024). *R: A Language and Environment for Statistical Computing*. R Foundation for Statistical Computing, Vienna, Austria. <https://www.R-project.org/>.).
